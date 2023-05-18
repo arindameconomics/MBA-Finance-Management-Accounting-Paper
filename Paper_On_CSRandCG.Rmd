@@ -1,12 +1,13 @@
 ---
 title: Arindam Chatterjee MBA 2nd Semester Management Accounting Paper On Corporate
   Social Responsibility and Corporate Governance
-output: word_document
+output:
+  md_document:
+    df_print: paged
 date: "2023-05-18"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+# R Markdown Document
 
-[Click here to view the PDF](https://drive.google.com/file/d/1zA86vOuvUlzctyxFc9hJiJ5YwREs7Skr/view?usp=share_link)
-```
+
+[Click here to view the PDF](https://drive.google.com/file/d/1zA86vOuvUlzctyxFc9hJiJ5YwREs7Skr/view?usp=sharing)
