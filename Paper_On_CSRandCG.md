@@ -1,4 +1,21 @@
-# R Markdown Document
+R Markdown Document
 
-[Click here to view the
-PDF](https://drive.google.com/file/d/1zA86vOuvUlzctyxFc9hJiJ5YwREs7Skr/view?usp=sharing)
+Title: Corporate Social Responsibility and Corporate Governance (A Case
+Study on Grameen Bank, Bangladesh)
+
+Author: Arindam Chatterjee
+
+Introduction By definition, Corporate Social Responsibility is one kind
+of self-regulation that is integrated into the business model to create
+a positive impact on the environment and the stakeholders. Whereas
+Corporate Governance broadly refers to the mechanisms by which a firm is
+controlled and directed. It involves balancing the stakeholder interests
+of that company. Both CSR (Corporate Social Responsibility) and CG
+(Corporate Governance) focus on the ethical practices in the business
+and the responsiveness of an organization to its stakeholders and the
+environment in which it operates. Not only that the CG and CSR result in
+a better image of a firm, but these measures also affect the performance
+of the organization.
+
+[Click here to view the Full
+Paper](https://drive.google.com/file/d/1G7UBbUJeelTbboT1_E4ncKw8TWyanGLH/view?usp=share_link)
